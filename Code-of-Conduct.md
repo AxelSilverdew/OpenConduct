@@ -7,10 +7,10 @@ OpenConduct is not a political document. What it is, is a document designed to p
 
 Most importantly OpenConduct aims to:
 * Make the project accessible to as many contributors as possible.
-* Review all contributions equally.
-* Enable people to freely share their ideas, and to receive _constructive_ freedback in a safe environment.
-* Prevent belittling, insults, and other personal attacks directed toward individuals and groups.
+* Ensure all contributions are reviewed equally.
+* Enable people to freely share their ideas and receive _constructive_ criticism.
+* Prevent belittling, needless insults, and other personal attacks directed toward individuals and groups.
 
 ## Conduct
 
-It is often helpful to maintain an atmosphere of constructive criticism within a project in order to ensure that each contributor's views are expressed and considered. As such contributors should be prepared to have their contributions and the ideas behind them carefully reviewed by others. In saying this, contributors are expected to treat each other with dignity when discussing or reviewing changes to the project.
+It is often helpful to maintain an atmosphere of constructive criticism within a project in order to ensure that each contributor's views are expressed and considered, as such contributors should be prepared to have their contributions and the ideas behind them carefully reviewed and scrutinised by others. In saying this, contributors are expected to treat each other with dignity and mutual respect when discussing or reviewing changes, and should ensure the feedback they provide is based solely on the work and ideas that were presented as opposed to the person who presented them. That is to say, criticism should *not* be used as a means to attack the character or affiliations of another contributor, and instead should be limited to the ideas and contributions that have been presented to the project. These simple guidelines serve many purposes, chiefly they allow contributors to collect vital feedback on their work without fear of being attacked or belittled for reasons not concerning the project they are contributing to.
